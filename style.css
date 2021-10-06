@@ -422,7 +422,7 @@ footer{
     }
 
     .about__box {
-        padding: 6rem 0;
+        padding: 6rem;
         text-align: left;
     }
 
@@ -585,6 +585,7 @@ footer{
         background: #85d7ff;
     }
 }
+
 
 @media (min-width: 62em) {
     .showcase {
